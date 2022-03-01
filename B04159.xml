@@ -1,0 +1,406 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>London's index or Some reflexions on the new built monument.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04159</idno>
+            <idno type="STC">Wing L2932</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.2[104]</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.4[129]</idno>
+            <idno type="EEBO-CITATION">99884991</idno>
+            <idno type="PROQUEST">ocm99884991</idno>
+            <idno type="VID">182798</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04159)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 182798)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A1:1[105]; A4:2[130])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>London's index or Some reflexions on the new built monument.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the year 1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "VVHat strange Idaea can present! ..."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>London (England) --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:182798:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 14 -->
+            <head>LONDONS INDEX OR Some Reflexions ON THE New built MONUMEN<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </head>
+            <epigraph>
+               <q>
+                  <l>—Comitetur <hi>Punica</hi> Chartam</l>
+                  <l>Spongia—</l>
+               </q>
+               <bibl>Mart.</bibl>
+            </epigraph>
+            <lg>
+               <l>WHat ſtrange <hi>Idaea</hi> can preſent!</l>
+               <l>How Myſterious Providence</l>
+               <l>To Mortals doth its gift diſpence!</l>
+               <l>When it ſeems t' have ſent</l>
+               <l>Plagues, and Diſorders, to unite</l>
+               <l>The World, and force us to delight;</l>
+               <l>How elſe could ſuch a glorious Structure riſe,</l>
+               <l>Wearying its Beholders eyes?</l>
+               <l>Which ſcarce</l>
+               <l>Can reach that height, which doth ore-top the Univerſe.</l>
+               <l>See it ſurveys the City as its charge,</l>
+               <l>And ſeems to ſcorn</l>
+               <l>Flames, which lye buried in this flaming <hi>Urn;</hi>
+               </l>
+               <l>The City's Liberty it doth enlarge,</l>
+               <l>The Boys could never go</l>
+               <l>So high Proceſſioning in th' Air till now.</l>
+               <l>This is the Planet, which will always tell</l>
+               <l>The City's well;</l>
+               <l>For its Aſcendant, it doth <hi>London</hi> own,</l>
+               <l>Scarce one degree below the <hi>Moon.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>2.</head>
+               <l>Th'amazed <hi>Phoenix</hi> thinks 'tis built her neſt,</l>
+               <l>And from the Deſert ſtraight doth come,</l>
+               <l>Bath'd in <hi>Arabian</hi> Gum,</l>
+               <l>Within theſe flames to take Eternal reſt,</l>
+               <l>Hence forth <hi>Rome's Amphitheatre</hi> muſt bow;</l>
+               <l>This is <hi>Carpophorus</hi> his Spear,</l>
+               <l>And ſeems to threaten the <hi>Caeleſtial Bear.</hi>
+               </l>
+               <l>The <hi>Dog-ſtar</hi> now</l>
+               <l>Haſtens to th' <hi>South</hi> all cold with fear.</l>
+               <l>This is a Rival to the <hi>Gnoſſian</hi> Crown,</l>
+               <l>Which pale <hi>Cynthia</hi> longs to own.</l>
+               <l>When this the <hi>Perſian</hi> did ſee,</l>
+               <l>He thought the Sun was riſen in the <hi>Weſt,</hi>
+               </l>
+               <l>Some bow the knee:</l>
+               <l>Whilſt each long-bearded reverend Prieſt</l>
+               <l>Conſult the <hi>Sibyl</hi> Oracles, to find</l>
+               <l>What Heaven had deſign'd:</l>
+               <l>But when they ſee him in the <hi>Eaſt</hi> appear,</l>
+               <l>They change their wonder into fear;</l>
+               <l>Till by its borrowed light, they ſee</l>
+               <l>Ours is as much below the Sun, as he</l>
+            </lg>
+            <p>To CAESAR's Deity.</p>
+            <lg>
+               <l>Now th' <hi>Eaſt-Indians</hi> come from far,</l>
+               <l>Without a Compaſs, guided by this <hi>Star.</hi>
+               </l>
+            </lg>
+            <lg>
+               <head>3.</head>
+               <l>Th' <hi>AEgyptian</hi> Pyramids ſhrink in their heads,</l>
+               <l>And wiſh themſelves laid in their Founders Beds;</l>
+               <l>Such Buildings more become a Child,</l>
+               <l>Nought but a heap of ſtones compil'd:</l>
+               <l>There's far more bravery</l>
+               <l>In the labourious Houſe of an Induſtrious Bee;</l>
+               <l>The years in which they builded were,</l>
+               <l>Require more wonder then their art or care.</l>
+               <l>But why ſuch richneſs ſpent</l>
+               <l>About the fire's Monument?</l>
+               <l>Could it be thought in after years,</l>
+               <l>That BRUTE could ere erect:</l>
+               <l>Such Buildings, as themſelves protect.</l>
+               <l>And fill the Neighbouring World with fears?</l>
+               <l>No, the future Age muſt ſay,</l>
+               <l>'Twas CAESAR's Influence that rul'd the day.</l>
+               <l>Nor could the World int's Infancy</l>
+               <l>Produce ſuch Art as here we ſee:</l>
+               <l>Such Streets, in former Ages, muſt undo</l>
+               <l>The <hi>Populus,</hi> and the <hi>Senatus</hi> too;</l>
+               <l>I'd almoſt ſaid <hi>Rome</hi>'s PATER PATRIAE.</l>
+            </lg>
+            <lg>
+               <head>4.</head>
+               <l>Say then, whence all this coſt</l>
+               <l>Do we in judgments boaſt?</l>
+               <l>Or is't Heavens ſecond Covenant here below.</l>
+               <l>An Arrow to the watry Bow?</l>
+               <l>See how bright <hi>Iris</hi> hovers ore the top,</l>
+               <l>And promiſes whilſt this remains,</l>
+               <l>(On which we ground our hope)</l>
+               <l>
+                  <hi>London</hi> ſhall never feel ſuch flames again.</l>
+               <l>No wind ſo high can ever blow,</l>
+               <l>Nor do we fear the Winters Hail, or Snow,</l>
+               <l>'Tis water when't comes here,</l>
+               <l>And doth commence its Iceneſs from a lower Sphaere.</l>
+               <l>From this we may the City ſee</l>
+               <l>At large, and in Epitome.</l>
+               <l>When Airy Gods in ſilent nights ſhall rove,</l>
+               <l>This they will chuſe</l>
+               <l>To be their place of Rendezvouz,</l>
+               <l>A Colony of power and love.</l>
+               <l>The <hi>Rhodian</hi> Coloſs ſcorns to be outvied,</l>
+               <l>Complaining to its Deity,</l>
+               <l>Would fain reſolved be,</l>
+               <l>And gladly int' is firſt diſorder ſlide.</l>
+               <l>All that it now can boaſt of, is</l>
+               <l>That it ſees this.</l>
+            </lg>
+            <lg>
+               <head>5.</head>
+               <l>
+                  <hi>England</hi>'s great Theatre beholds the frame</l>
+               <l>Their Founders being almoſt the ſame,</l>
+               <l>Both owe their height to SHELDON's name.</l>
+               <l>Here's <hi>Pelion</hi> and <hi>Oſſa</hi> too:</l>
+               <l>
+                  <hi>Typhon</hi> had laid a Siege, with leſs ado,</l>
+               <l>To Heaven and ſcal'd the Sky,</l>
+               <l>Durſt he have ventur'd half ſo high.</l>
+               <l>The <hi>Thames</hi> which underneath it trembling glides</l>
+               <l>Fearing the River <hi>Alpheus</hi> fate,</l>
+               <l>Ebbing, and flowing in a doubtful ſtate,</l>
+               <l>The waves for dread do one another hide.</l>
+               <l>No more we'll f<gap reason="illegible: page cropped" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </l>
+               <l>Forrain Invaſions, to moleſt us here:</l>
+               <l>This when our Enemies ſhall ſee,</l>
+               <l>They'l yield, it doth portend a deſtiny,</l>
+               <l>A Comet ominous,</l>
+               <l>Ruin t' our Foes, but heal</l>
+               <l>In this bright Star Aſtrologers may find,</l>
+               <l>Being at the top.</l>
+               <l>Without a <hi>Teleſcope,</hi>
+               </l>
+               <l>How all the City is inclin'd.</l>
+            </lg>
+            <lg>
+               <head>6.</head>
+               <l>'Tis <hi>London</hi>'s Standard, and proclai<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>Vict'ry ore the fierceſt fla<gap reason="illegible: page cropped" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </l>
+               <l>True it doth repreſen<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>The greateſt Judgments ever Heaven ſent:</l>
+               <l>
+                  <hi>Brewers</hi> Copper and a heap of flames,</l>
+               <l>Too dreadful in their very names,</l>
+               <l>Yet victors ſhow</l>
+               <l>The dangers which they once did undergo</l>
+               <l>Which be'ng o'r</l>
+               <l>They proudly Rear their Banners in the En'mie</l>
+               <l>We need no Pageantt</l>
+               <l>Such ſhadows as ſurp<gap reason="illegible: page cropped" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>
+               </l>
+               <l>The Peoples eye<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>In this we ſee.</l>
+               <l>A <hi>Lord Mayor</hi>'s Show app<gap reason="illegible: page cropped" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </l>
+               <l>Stately and rich enough for all the year.</l>
+               <l>Our Brightneſs doth <hi>Peru</hi> out-brave</l>
+               <l>And the <hi>Atlantick</hi> Se<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible: page cropped" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>Whilſt this refl<gap reason="illegible: page cropped" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>Seems all her Jewels to neglect:</l>
+               <l>When ſhe their emulation ſeeks to ſave,</l>
+               <l>From the curſt fate of <hi>N<gap reason="illegible: page cropped" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </hi>
+               </l>
+               <l>Which Fate long ſince had they not und<gap reason="illegible: page cropped" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>This, like <hi>Meduſa</hi>'s head, had turn'd them int<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible: page cropped" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </l>
+            </lg>
+            <lg>
+               <head>7.</head>
+               <l>The widdow'd <hi>Greenland</hi> curſes this ou<gap reason="illegible: page cropped" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>For now we hid<gap reason="illegible: page cropped" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>Her half years Sun and <gap reason="illegible: page cropped" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>Her coldneſs in the Mantle of a ſhady Clou<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible: page cropped" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>Why ſhould I ban <hi>Praxiteles?</hi>
+               </l>
+               <l>
+                  <hi>Mauſolus</hi> Tomb wa<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible: page cropped" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>And might become a greater Princes Grav<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </l>
+               <l>But yet all this</l>
+               <l>Compared with our <gap reason="illegible: page cropped" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>Seems like its under Rivulet to <hi>Nile:</hi>
+               </l>
+               <l>It muſt be ſo,</l>
+               <l>The place a greater difference doth ſhow</l>
+               <l>And what can be too <gap reason="illegible: page cropped" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>For ſuch a room of S<gap reason="illegible: page cropped" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>Since we may juſtly <gap reason="illegible: page cropped" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+               <l>
+                  <hi>London,</hi> built ſo nigh Heaven, is <hi>Chamber</hi> of th<gap reason="illegible: page cropped" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <gap reason="illegible: page cropped" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </l>
+            </lg>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <gap reason="illegible: page cropped" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> in the Year 1676</p>
+         </div>
+      </back>
+   </text>
+</TEI>
